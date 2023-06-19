@@ -2,7 +2,7 @@
 Clean and Customizable, with custom background support | BetterDiscord Thema
 
 # ScreenShot
-![image](https://github.com/TheSampleK/ator/assets/137044072/bef0b8f8-899e-4dbf-8bd4-0fb9033ca32c)
+![screenshot-1](https://github.com/TheSampleK/ator/assets/137044072/2d59f115-13fb-4004-b89c-70254492643a)
 
 NOW DOWNLOAD : https://theburak.ycode.site/bdthema
 
